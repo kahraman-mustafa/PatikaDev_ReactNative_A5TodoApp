@@ -1,3 +1,27 @@
+# PatikaDev - React Native Kursu - React & React Native Temelleri Ders Sonu Kendin Yap Projesi
+Bu repo [Patika](www.patika.dev) React Native programımız kapsamında "React Native Kursu - State & Lifecycle" Ders Sonu Kendin Yap Projesi için oluşturulan repodur. İçerisinde bir adet "A5TodoApp" isimli React Native uygulaması barındırmaktadır.
+
+# Installation
+Öncelikle projeyi clonelayın. 
+
+> git clone https://github.com/kahraman-mustafa/PatikaDev_ReactNative_A5TodoApp.git
+
+# Usage
+Projeyi klonladıktan sonra Visual Studio Code programında açınız.
+Linux için:
+> cd A5TodoApp
+code .
+
+![Proje Resmi-1](https://raw.githubusercontent.com/kahraman-mustafa/PatikaDev_ReactNative_A5TodoApp/master/A5TodoApp_1.png)
+![Proje Resmi-2](https://raw.githubusercontent.com/kahraman-mustafa/PatikaDev_ReactNative_A5TodoApp/master/A5TodoApp_2.png)
+![Proje Resmi-3](https://raw.githubusercontent.com/kahraman-mustafa/PatikaDev_ReactNative_A5TodoApp/master/A5TodoApp_3.png)
+
+# Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+# License
+[MIT](https://opensource.org/licenses/MIT)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
